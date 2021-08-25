@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "id": 375712353,
+      "name": "Cadastro-Series-.net",
+      "owner": {
+        "login": "JuliaTeresaSantos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64170961?v=4"
+      },
+      "html_url": "https://github.com/JuliaTeresaSantos/Cadastro-Series-.net",
+      "description": null,
+      "stargazers_count": 0,
+      "language": "C#"
+    },
+    {
+      "id": 394442874,
+      "name": "CartaoVisitas",
+      "owner": {
+        "login": "JuliaTeresaSantos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64170961?v=4"
+      },
+      "html_url": "https://github.com/JuliaTeresaSantos/CartaoVisitas",
+      "description": null,
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 339828609,
+      "name": "Desafios-Kotlin-DIO-",
+      "owner": {
+        "login": "JuliaTeresaSantos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64170961?v=4"
+      },
+      "html_url": "https://github.com/JuliaTeresaSantos/Desafios-Kotlin-DIO-",
+      "description": null,
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 312283972,
+      "name": "Estudo-projetos-Full-Stack",
+      "owner": {
+        "login": "JuliaTeresaSantos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64170961?v=4"
+      },
+      "html_url": "https://github.com/JuliaTeresaSantos/Estudo-projetos-Full-Stack",
+      "description": "Projetos de recriação de telas.",
+      "stargazers_count": 0,
+      "language": "HTML"
+
+    },
+    {
+      "id": 312386008,
+      "name": "Estudo-telas",
+      "owner": {
+        "login": "JuliaTeresaSantos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64170961?v=4"
+      },
+      "html_url": "https://github.com/JuliaTeresaSantos/Estudo-telas",
+      "description": "Recriando telas ",
+      "stargazers_count": 0,
+      "language": "CSS"
+    },
+    {
+      "id": 388932404,
+      "name": "Projetos-Android-Kotlin",
+      "owner": {
+        "login": "JuliaTeresaSantos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64170961?v=4"
+      },
+      "html_url": "https://github.com/JuliaTeresaSantos/Projetos-Android-Kotlin",
+      "description": null,
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 269184720,
+      "name": "Trabalho-pr-tico---m-dulo-2",
+      "owner": {
+        "login": "JuliaTeresaSantos",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64170961?v=4"
+      },
+      "html_url": "https://github.com/JuliaTeresaSantos/Trabalho-pr-tico---m-dulo-2",
+      "description": null,
+      "stargazers_count": 0,
+      "language": "JavaScript"
+
+    }
+  ]
+}
